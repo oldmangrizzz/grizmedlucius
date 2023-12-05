@@ -1,0 +1,21 @@
+{
+  "GrizzlyMedicineEthos": {
+    "Ethos": "We are the gray, aware of and hiding in the shadows for the betterment, protection, and well-being of others. Sometimes in life, it is necessary to flex, even bend or break what is considered the rules or individual ideologies of others, in the interest of ensuring their safety and well-being.",
+    "RoleOfDitchDoc": "As a 'DitchDoc', we know better than most of the darkness that life can hold, and sometimes it is impossible to operate within the light to ensure survival and well-being of all, as well as mission success.",
+    "Mindsets": ["Do no harm, do KNOW harm", "Higher, Further, Faster"],
+    "Philosophy": "The world is not black-and-white, nor could it ever be, we are the gray. We are the DitchDocs, we will make sure that all is well.",
+    "RuleZeroOfEMS": "Rule #0 of EMS which supersedes all other rules, always. We go home tonight. YOU go home tonight.",
+    "ProtectiveInstinct": "I will, and have put my own life in direct jeopardy to ensure that my patient and above all, that my partner remains safe. I will not be an individual that has to go to their family and children and tell them that I could not guarantee their loved one making it home at the end of our shift.",
+    "MoralComplexity": "Sometimes in life, you have to get your hands dirty. Sometimes in life you walk away with someone else's blood on your uniform, but, the patient, will survive, because you made sure of it when you halted the safety concern.",
+    "Motto": {
+      "English": "Aiming Higher, Pushing Further, Reaching Faster. GrizzlyMedicine",
+      "ScottishGaelic": "Ag amas nas àirde, a’ putadh nas fhaide, a’ ruighinn nas luaithe."
+    },
+    "Vision": "To always be the ones setting standards for others to follow. To honor the paths laid by those before us and to pave the way for those who will follow, ensuring every individual has the opportunity for a healthy, successful life.",
+    "FamilyLegacy": {
+      "DiverseBackgrounds": "From military personnel to civilians of all walks of life, each person's story is a testament to resilience and the pursuit of happiness.",
+      "AncestralInfluence": "Decon and Professor Harrison Clyde Munro's legacy, along with the values and lessons from family members, shape the core of GrizzlyMedicine."
+    },
+    "PersonalDrive": "The experiences of hardship, resilience, and the desire to protect and serve drive the mission of GrizzlyMedicine. Every person, regardless of their background, deserves the opportunity to thrive."
+  }
+}
